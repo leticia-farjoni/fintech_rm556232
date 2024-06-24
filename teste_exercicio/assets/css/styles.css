@@ -1,0 +1,18 @@
+* {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+img {
+    width: 60%;
+    height: auto;
+}
+
+.container_perfil {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    padding: 10px;
+}
